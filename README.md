@@ -7,7 +7,7 @@ CSC 4980 Assignment #4
 ## Prerequisites:
 * ###### Make sure you are in the `blockchain-hw-4` directory.
 
-* ###### Make sure you have Truffle version 0.5.0
+* ###### Make sure you have Truffle version v5.0.9 (core: 5.0.9), Solidity version v0.5.0 (solc-js)
 
 * ###### Make sure you have `testrpc`. If you don't, run `npm install -g ethereumjs-testrpc`.
 
