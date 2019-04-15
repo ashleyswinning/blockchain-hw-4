@@ -29,7 +29,7 @@ CSC 4980 Assignment #4
   * sets instructors in the desired instructors array that setInstructors
   * is supposed to populate. To do this, it calls a new instance of the Courses contract and then
   *  the setInstructors() function and then asserts if the expected components of the element in setInstructor
-  * (the instructor's age, first, and last name) are correct to the true components.
+  * (the instructor's age, first, and last name) are correct to the true components in the instructors array.
   */
 
 * Test 2: getInstructors()
