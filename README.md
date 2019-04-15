@@ -22,7 +22,8 @@ CSC 4980 Assignment #4
 
 ## About the Tests...
 
-```* Test 1: setInstructors(address _address, uint _age, string memory _fName, string memory _lName)
+```
+* Test 1: setInstructors(address _address, uint _age, string memory _fName, string memory _lName)
  /*
   * This test makes sure that the setInstructors() method actually
   * sets instructors in the desired instructors array that setInstructors
@@ -51,5 +52,6 @@ CSC 4980 Assignment #4
   * This test calls a new instance of the Courses contract and then sets three instructors.
   * Then, it calls the countInstructors() function and asserts that the result is equal to the expected
   * value (in this case, three).
-  */```
+  */
+  ```
 
