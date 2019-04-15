@@ -23,7 +23,7 @@ CSC 4980 Assignment #4
 ## About the Tests...
 
 * Test 1: setInstructors(address _address, uint _age, string memory _fName, string memory _lName)
-  ```/*
+ ```/*
   * This test makes sure that the setInstructors() method actually
   * sets instructors in the desired instructors array that setInstructors
   * is supposed to populate. To do this, it calls a new instance of the Courses contract and then
@@ -32,7 +32,7 @@ CSC 4980 Assignment #4
   */```
 
 * Test 2: getInstructors()
-  ```/*
+```/*
   * This test tests getting instructors by calling a new instance of the Courses
   * contract and then setting two different instructors -- if this and the setInstructors() test don't pass, we have reason
   * to believe it's setInstructor that failed. It'll then call getInstructors() and then assert that the elements
